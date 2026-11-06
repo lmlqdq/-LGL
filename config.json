@@ -1,0 +1,19 @@
+{
+  "PlayerName": "Steve",
+  "JavaPath": "",
+  "MemoryMb": 2048,
+  "UseMirror": true,
+  "VersionIsolation": true,
+  "LastVersion": "26.3",
+  "WindowWidth": 854,
+  "WindowHeight": 480,
+  "Fullscreen": false,
+  "CloseOnLaunch": false,
+  "Accent": "#2F6BFF",
+  "Theme": "liquid",
+  "Background": "",
+  "Splash": true,
+  "DownloadThreads": 8,
+  "JvmArgs": "",
+  "ThemeVersion": 2
+}
